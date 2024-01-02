@@ -1,9 +1,9 @@
 <?php
 
 $host = 'mysql-container'; // Container name or IP address
-$user = 'sunny';
+$user = 'hanif';
 $pass = '123456';
-$db = 'sunny_db';
+$db = 'hanif_test_db';
 
 $mysqli = new mysqli($host, $user, $pass, $db);
 
